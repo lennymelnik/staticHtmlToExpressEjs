@@ -1,0 +1,153 @@
+table,tr,td {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #000000;
+	text-align: left;
+	vertical-align: top;
+}
+
+.float {
+	float: left;
+}
+
+img {
+	border: none;
+}
+
+td>div>img {
+	vertical-align: bottom;
+}
+
+.maintable {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text {
+	line-height: 18px;
+	text-align: left;
+	font-size: 11px;
+	padding: 0px 15px 15px 15px;
+}
+
+h1 {
+	color: #124f46;
+	font-size: 18px;
+	line-height: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	color: #378479;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	color: #378479;
+	font-size: 15px;
+	line-height: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #378479;
+	text-decoration: none;
+}
+
+a:hover {
+	font-family: Verdana, Helvetica, sans-serif;
+	color: #1b584f;
+	text-decoration: underline;
+}
+
+.footersize {
+	width: 960px;
+	margin: 0px auto;
+}
+
+.footer a {
+	color: #a3a5ac;
+	line-height: 20px;
+	font-size: 12px;
+}
+
+.footer a:hover {
+	color: #a3a5ac;
+	line-height: 20px;
+	font-size: 12px;
+}
+
+.smaller {
+	color: #a3a5ac;
+	font-size: 10px;
+	line-height: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.smaller a {
+	color: #a3a5ac;
+}
+
+.smaller a:hover {
+	color: #a3a5ac;
+}
+
+.largelist {
+	font-size: 14px;
+}
+
+.largelist a {
+	font-size: 14px;
+	line-height: 22px;
+}
+
+.white {
+	color: #ffffff;
+}
+
+.white td {
+	color: #ffffff;
+}
+
+#FontSizeButton {
+	float: right;
+	margin: 0px 10px 10px 10px;
+}
+
+.book-content {
+	text-align: center;
+}
+
+.book-content h2 {
+	color: #fff;
+	font-size: 26px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.686);
+}
+
+.book-content img {
+	height: 130px;
+	margin: 0px 10px;
+}
+
+.book-content .book-btn {
+	display: table;
+	margin: .5em auto;
+	background-image: -webkit-linear-gradient(top,#1F6359,#12342F);
+	background-image: -moz-linear-gradient(top,#1F6359,#12342F);
+	background-image: -o-linear-gradient(top,#1F6359,#12342F);
+	background-image: linear-gradient(to bottom,#1F6359,#12342F);
+	color: #FFFFFF;
+	padding: .5em 2%;
+	border-radius: 4px;
+}
+
+.book-content .book-btn:hover {
+	background-image: -webkit-linear-gradient(bottom,#1F6359,#12342F);
+	background-image: -moz-linear-gradient(bottom,#1F6359,#12342F);
+	background-image: -o-linear-gradient(bottom,#1F6359,#12342F);
+	background-image: linear-gradient(to top,#1F6359,#12342F);
+	color: #D0D0D0;
+	text-decoration: none;
+}

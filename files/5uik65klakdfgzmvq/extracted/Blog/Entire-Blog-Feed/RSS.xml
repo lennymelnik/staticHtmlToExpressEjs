@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Entire Blog Feed</title>
+		<atom:link href="https://www.estatelawteam.com/Blog/Entire-Blog-Feed/RSS.xml" rel="self" type="application/rss+xml" />
+		<link>https://www.estatelawteam.com/Blog/Entire-Blog-Feed/RSS.xml</link>
+		<description></description>
+		<item>
+			<title>Welcome to Our New York Estate Attorney Blog</title>
+			<link>https://www.estatelawteam.com/Blog/2012/May/Welcome-to-Our-New-York-Estate-Attorney-Blog.aspx</link>
+			<guid>https://www.estatelawteam.com/Blog/2012/May/Welcome-to-Our-New-York-Estate-Attorney-Blog.aspx</guid>
+			<pubDate>Fri, 11 May 2012 21:37:00 GMT</pubDate>
+			<description>&lt;p&gt;Our Attorneys are pleased to announce the launch of our New York Estate Attorney blog with an RSS feed available at &lt;a href=&quot;https://www.estatelawteam.com/Blog/Entire-Blog-Feed/RSS.xml&quot;&gt;http://www.estatelawteam.com/Blog/Entire-Blog-Feed/RSS.xml&lt;/a&gt;&lt;/p&gt;</description>
+			<author>New  York Estate Attorney</author>
+		</item>
+	</channel>
+</rss>

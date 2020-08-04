@@ -1,0 +1,28 @@
+{
+  "name": "statichtmltoexpressejs",
+  "version": "1.0.0",
+  "description": "Convert static HTML websites to express and ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennymelnik/staticHtmlToExpressEjs.git"
+  },
+  "author": "Leonard Melnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lennymelnik/staticHtmlToExpressEjs/issues"
+  },
+  "homepage": "https://github.com/lennymelnik/staticHtmlToExpressEjs#readme",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "connect-busboy": "0.0.2",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "multer": "^1.4.2",
+    "uniqid": "^5.2.0",
+    "unzip": "^0.1.11"
+  }
+}

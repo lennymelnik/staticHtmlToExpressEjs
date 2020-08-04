@@ -1,0 +1,223 @@
+div.s_videolist {
+	
+}
+div.s_video {
+	border: solid 1px #999999;
+   background-repeat: repeat;
+   margin: 10px;
+   width: 316px;
+   background-color: #f2f2f2;
+   padding: 3px 2px;
+   float: left;
+}
+h1.s_videoheader {
+	
+}
+h2.s_videotitle {
+	clear: both;
+}
+div.s_videoimg {
+	float: left;
+   width: 113px;
+   height: 63px;
+   vertical-align: middle;
+   margin-top: 2px;
+}
+div.s_videotext {
+	color: #333333;
+   float: left;
+   width: 196px;
+   padding: 3px;
+}
+div.s_videotext a {
+	font-weight: bold;
+   color: #2971a2;
+   text-decoration: none;
+}
+div.s_videoCaption1 {
+	color: #999999;
+   font-size: 14px;
+}
+div.sidemenu {
+	margin-bottom: 10px;
+	margin-top: 5px;
+	padding:0 10px;
+}
+
+div.sidemenu h2 {
+	margin: 0px;
+	padding: 3px;
+	font-size: 14px;
+}
+
+div.sidemenu ul.list {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-size: 11px;
+}
+
+div.sidemenu ul.list li {
+	background: url(../Admin/images2/divet4.gif) no-repeat 0px 7px;
+	line-height: 20px;
+	padding-left: 10px;
+	margin: 0px 0px 0px 18px;
+}
+
+div.sidemenu a {
+}
+
+div.sidemenu a:hover {
+}
+
+div.navigation {
+	background-color: transparent;
+	height: 45px;
+	padding: 0px 6px;
+	border: solid 1px #CCCCCC;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+div.paging {
+	margin-bottom: 5px;
+}
+
+div.paging a {
+	border: solid 1px #CCCCCC;
+	padding: 2px;
+}
+
+div.item {
+	border: solid 1px #CCCCCC;
+	padding: 5px 8px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	margin-bottom: 25px;
+}
+
+div.form {
+	margin-top: 10px;
+}
+
+table.form td {
+	padding: 2px 4px;
+}
+
+table.form td input.form {
+	margin: 2px;
+	padding: 1px 4px;
+	vertical-align: middle;
+	border: solid 1px #CCCCCC;
+}
+table.form td select.form {
+	margin: 2px;
+	padding: 1px 4px;
+	vertical-align: middle;
+	border: solid 1px #CCCCCC;
+}
+
+table.form td textarea.form {
+	margin: 2px;
+	padding: 1px 4px;
+	vertical-align: middle;
+	border: solid 1px #CCCCCC;
+}
+
+table.form td input.form:focus {
+	margin: 2px;
+	outline: solid 2px #65acdc;
+}
+
+table.form td select.form:focus {
+	margin: 2px;
+	outline: solid 2px #65acdc;
+}
+
+table.form td textarea.form:focus {
+	margin: 2px;
+	outline: solid 2px #65acdc;
+}
+
+div.auth {
+	height: 1px;
+}
+
+div.auth a {
+	float: right;
+	margin-top: -22px;
+	margin-left: 4px;
+	padding: 7px;
+	border: solid 1px #999;
+	font-weight: bold;
+	background-color: #ddd;
+	color: #505050;
+	-mox-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	text-decoration: none;
+}
+
+div.auth a:hover {
+	text-decoration: underline;
+}
+
+div.auth.save a {
+	margin-top: -10px;
+}/* Start Video Styles */
+div.video div.item {
+	margin: 7px;
+	width: 316px;
+	height: 100px;
+	background-color: #f2f2f2;
+	padding: 6px 3px;
+	float: left;
+}
+
+div.video div.end {
+	border-bottom: dotted 1px #CCCCCC;
+	padding-top: 10px;
+	margin-bottom: 18px;
+	clear: both;
+}
+
+div.video div.player {
+	padding-bottom: 13px;
+	position: relative;
+}
+
+div.video-shadow {
+	height: 13px;
+	width: 196px;
+	position: absolute;
+	bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+	font-size: 1px;
+	background: url(../Shared/videovault/theme/video_sprite.png) no-repeat 0px 0px;
+}
+
+* html div.video-shadow {
+	display: none;
+}
+
+div.video-shadow.left {
+	left: 0px;
+	background-position: left bottom;
+}
+
+div.video-shadow.right {
+	right: 0px;
+	background-position: right bottom;
+}
+
+div.video div.caption {
+	color: #666;
+	margin-top: 8px;
+	padding-bottom: 5px;
+	border-bottom: dotted 1px #CCCCCC;
+	margin-bottom: 4px;
+}
+/* End Video Styles */
